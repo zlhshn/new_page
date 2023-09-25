@@ -1,11 +1,11 @@
 *{
-   /* margin: 0%;
-   box-sizing: border-box; */
+
+   /* box-sizing: border-box;  */
 }
 
 body{
  background-color: rgb(237, 242, 250);
- padding: 1px;
+ /* padding: 1px; */
 }
 
 main{
@@ -13,12 +13,29 @@ main{
     width: 650px;
     height: 470px;
     border: 1px solid black;
+    /* div ortalama */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     margin: auto;
+    border-radius: 5%;
   
 }
 
-div.stepdiv{
-    width: 300px;
-    height: 450px;
+/* left part */
+
+.stepdiv{
+    width: 270px;
+    height: 430px;
    background-image: url(./img/bg-sidebar-desktop.svg);
+   background-position: center center;
+   margin-left: 15px;
+   margin-bottom: 10px;
+   border-radius: 10%;
+}
+
+
+.info{
+    /* border: 1px solid red; */
 }
