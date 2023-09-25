@@ -1,0 +1,24 @@
+*{
+   /* margin: 0%;
+   box-sizing: border-box; */
+}
+
+body{
+ background-color: rgb(237, 242, 250);
+ padding: 1px;
+}
+
+main{
+    background-color: white;
+    width: 650px;
+    height: 470px;
+    border: 1px solid black;
+    margin: auto;
+  
+}
+
+div.stepdiv{
+    width: 300px;
+    height: 450px;
+   background-image: url(./img/bg-sidebar-desktop.svg);
+}
