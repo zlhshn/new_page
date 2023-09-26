@@ -108,6 +108,12 @@ main .stepdiv ul li .number:hover{
     background-color: blueviolet;
 }
 
-/* .info{
+.info{
+ border: 2px solid red;
+ width: 320px;
+ height: 430px;
+ margin-left: 310px;
+ margin-top: 23px;
+ 
+}
 
-} */
