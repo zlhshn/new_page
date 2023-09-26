@@ -33,7 +33,7 @@ main{
 .stepdiv{
     width: 260px;
     height: 450px;
-    background-image: url(./img/bg-sidebar-desktop.svg)
+    background-image: url(./img/bg-sidebar-desktop.svg);
     background-position: center center;
     /* margin-left: 15px;
     margin-bottom: 10px; */
