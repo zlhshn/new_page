@@ -75,7 +75,7 @@ main .stepdiv ul li .number2{
     text-align: center;
     border: 1px solid black;
     position: absolute;
-    top: 22%;
+    top: 21%;
     left: 9%;
     transform: translate(-50%, -50%);
 }
@@ -86,7 +86,7 @@ main .stepdiv ul li .number3{
     text-align: center;
     border: 1px solid black;
     position: absolute;
-    top: 36%;
+    top: 34%;
     left: 9%;
     transform: translate(-50%, -50%);
 }
@@ -97,7 +97,7 @@ main .stepdiv ul li .number4{
     text-align: center;
     border: 1px solid black;
     position: absolute;
-    top: 49%;
+    top: 47%;
     left: 9%;
     transform: translate(-50%, -50%);
 }
